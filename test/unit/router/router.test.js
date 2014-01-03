@@ -1,7 +1,7 @@
 /**
  * Module dependencies
  */
-var $Sails = require('../../helpers/sails');
+var $Sails = require('../helpers/sails');
 var should = require('should');
 
 
